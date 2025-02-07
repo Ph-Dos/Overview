@@ -7,6 +7,6 @@
 
 ### Launges in Use
 * **C**
-* **Python**
 * **Rust**
+* **Python**
 * **Java** (For Academic Purposes)
